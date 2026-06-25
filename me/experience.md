@@ -5,13 +5,21 @@
 
 SHD Italia è leader mondiale nella progettazione, produzione e installazione di sistemi modulari prefabbricati per ambienti ospedalieri critici: sale operatorie, terapia intensiva, dialisi, sterilizzazione.
 
-Entrato al livello più basso dello studio tecnico senza formazione specifica sul settore. In 2 anni scalato a Head of Technical Department. Nessuno lo ha formato: ha studiato in autonomia, capito il processo completo e preso il controllo delle aree scoperte.
+Entrato al livello più basso dello studio tecnico senza formazione specifica nel settore. In 2 anni scalato a Head of Technical Department. Nessuno lo ha formato: ha studiato in autonomia, capito il processo completo e preso il controllo delle aree scoperte.
 
 **Responsabilità attuali:**
-- Coordinamento dell'ufficio tecnico
-- Project management su progetti internazionali di costruzione e installazione di blocchi operatori
+- Progettazione autonoma della sala operatoria — dal layout agli esecutivi finali
+- Organizzazione e coordinamento del cantiere
+- Coordinamento dell'ufficio tecnico interno
 - Interfaccia diretta con general contractors, clienti e stakeholder internazionali
-- Gestione dell'intera filiera tecnica dal progetto all'installazione in opera
+- Gestione dell'intera filiera: progetto → produzione → cantiere → consegna al cliente
+
+**La cosa rara:** copre tutto da solo. Progetta, organizza, coordina, consegna. Fine a fine.
+
+**Progetti internazionali completati:**
+Montenegro, Ungheria, Iraq, Libia, Indonesia, Arabia Saudita (Riad), Bahrain, Libano, Costa d'Avorio, Malaysia — e altri.
+
+Trovare questo livello di responsabilità internazionale, su ambienti medicali critici, a 27 anni è estremamente raro.
 
 In parallelo al ruolo operativo: sviluppo di app, workflow e automazioni per ottimizzare processi interni.
 
