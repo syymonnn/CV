@@ -7,6 +7,12 @@ SHD Italia è leader mondiale nella progettazione, produzione e installazione di
 
 Entrato al livello più basso dello studio tecnico senza formazione specifica sul settore. In 2 anni scalato a Head of Technical Department. Nessuno lo ha formato: ha studiato in autonomia, capito il processo completo e preso il controllo delle aree scoperte.
 
+**Responsabilità attuali:**
+- Coordinamento dell'ufficio tecnico
+- Project management su progetti internazionali di costruzione e installazione di blocchi operatori
+- Interfaccia diretta con general contractors, clienti e stakeholder internazionali
+- Gestione dell'intera filiera tecnica dal progetto all'installazione in opera
+
 In parallelo al ruolo operativo: sviluppo di app, workflow e automazioni per ottimizzare processi interni.
 
 ---

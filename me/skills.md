@@ -31,6 +31,12 @@
 - Prompt engineering e architettura di agenti
 - Revisione claim medici e scientifici su letteratura peer-reviewed
 
+## Project Management & Coordination
+- Project management su commesse internazionali complesse (blocchi operatori, ambienti ospedalieri critici)
+- Coordinamento multistakeholder: ufficio tecnico, general contractors, clienti, installatori
+- Gestione di progetti ad alta precisione normativa e tecnica in contesti internazionali
+- Pianificazione, controllo avanzamento e risoluzione problemi in cantiere
+
 ## Business & Strategy
 - Studio autonomo di economia, mercati finanziari, analisi tecnica
 - Comprensione della gestione aziendale (processi, persone, decisioni)

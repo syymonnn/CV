@@ -21,6 +21,11 @@ Dall'idea al deploy, senza dipendere da team esterni.
 Sviluppo di siti web con alto impatto visivo.
 Comunicazione di prodotto, campagne, content strategy.
 
+## Project Management & International Coordination
+Gestione end-to-end di progetti complessi in ambienti ad alta regolamentazione.
+Coordinamento di general contractors, team tecnici, clienti e stakeholder internazionali.
+Dal progetto all'installazione in opera, in contesti dove l'errore non è tollerato.
+
 ## AI & Research Systems
 Architettura di sistemi AI per casi d'uso specifici.
 Specializzazione in evidence-based content e audit di claim (health, wellness, longevity).
