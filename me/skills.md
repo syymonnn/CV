@@ -37,6 +37,33 @@
 - Gestione di progetti ad alta precisione normativa e tecnica in contesti internazionali
 - Pianificazione, controllo avanzamento e risoluzione problemi in cantiere
 
+## Lingue
+- **Italiano** — madrelingua
+- **Inglese** — professionale avanzato. Usato quotidianamente in contesti tecnici internazionali: clienti, general contractors, team di installazione in paesi diversi. Non inglese "scolastico" — inglese operativo sotto pressione.
+
+## Software & Tools
+
+**Design & 3D**
+- Adobe Photoshop, Illustrator, InDesign, Premiere Pro, Lightroom, Bridge
+- Blender (modellazione, rendering, animazione — livello avanzato)
+
+**CAD & Engineering**
+- AutoCAD
+- Autodesk Inventor
+- Autodesk Revit
+- CATIA V5 R19
+
+**Sviluppo & Automazione**
+- Visual Studio Code
+- Claude Code / Codex
+- GitHub
+- VBA / VB — sviluppo tool custom con database Access
+- Excel avanzato — automazioni, tool interni
+- Suite Microsoft Office
+
+**Produttività & Knowledge**
+- Obsidian
+
 ## Business & Strategy
 - Studio autonomo di economia, mercati finanziari, analisi tecnica
 - Comprensione della gestione aziendale (processi, persone, decisioni)
