@@ -61,6 +61,18 @@
 - Excel avanzato — automazioni, tool interni
 - Suite Microsoft Office
 
+**Hardware & IoT**
+- Arduino / ESP (programmazione microcontrollori)
+- Raspberry Pi — progetti custom, sistemi embedded
+- Antigravity IDE
+- Sistemi IoT end-to-end: sensori, relay, controllo remoto, digital twin
+- Ha progettato e costruito un sistema IoT per la propria camera: digital twin con calcolo consumi energetici, controllo luci LED via relay, monitoraggio temperatura/umidità in tempo reale con display fisico, accessibile da remoto da qualsiasi dispositivo
+
+**AI — utilizzo avanzato**
+- Utente AI dalla prima ora, con un livello di utilizzo operativo significativamente più profondo della media
+- Prompt engineering complesso, orchestrazione di agenti, sistemi multi-step
+- Costruzione di architetture cognitive (AE Human) che vanno ben oltre l'uso consumer
+
 **Produttività & Knowledge**
 - Obsidian
 
