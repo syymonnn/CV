@@ -19,17 +19,21 @@ Quando lo studio tecnico completava il pacchetto, il sistema inviava automaticam
 
 ## Plugin Revit — Studio Tecnico SHD
 
-### Generatore Abachi Pannelli
-Plugin Revit che al termine del progetto genera automaticamente gli abachi di tutti i pannelli per ogni locale.
-Estrae tutte le informazioni necessarie a ufficio acquisti e produzione — quantità, tipologie, specifiche.
-Su progetti con centinaia di pannelli, farlo a mano richiedeva giorni. Il plugin lo fa in secondi.
+Un sistema integrato di tre plugin che copre l'intera filiera progetto → produzione → cantiere.
 
-### Generatore Tavole di Progetto
-Plugin Revit che crea automaticamente le tavole dei locali in modo standardizzato.
-Velocizza il progettista e garantisce che tutte le tavole di progetto siano sempre identiche per formato, stile e informazioni. Output professionale e consistente su ogni commessa.
+### Plugin 1 — Referenziazione Pannelli
+Assegna una referenza univoca a ogni pannello esistente nel progetto Revit.
+Base del sistema: senza referenze univoche, niente può essere tracciato a valle.
 
-### [Terzo plugin] — da aggiungere
-<!-- Simo deve spiegarlo -->
+### Plugin 2 — Abachi per Produzione e Acquisti
+Genera automaticamente gli abachi completi per ogni locale, con tutte le referenze e le informazioni necessarie a ufficio acquisti e produzione.
+Su commesse con centinaia di pannelli, eliminato completamente il lavoro manuale — operazione che richiedeva giorni, ora eseguita in secondi.
+
+### Plugin 3 — Tavole per Installatori
+Crea i prospetti di ogni locale con le referenze dei pannelli posizionate direttamente sulla tavola.
+L'installatore in cantiere guarda la tavola e sa esattamente dove va ogni singolo pannello — il pannello 103 va lì, il 104 va là. Zero ambiguità, zero errori di montaggio.
+
+**Il sistema nel suo insieme:** dal modello Revit al cantiere, ogni pannello ha un'identità, una destinazione e una tavola che la mostra. Progettato e sviluppato interamente da Simone.
 
 ---
 
