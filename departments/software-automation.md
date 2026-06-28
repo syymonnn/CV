@@ -45,5 +45,20 @@ Stack: ESP32/8266, Arduino, sensori DHT, relay, schermo OLED.
 
 ---
 
+### Software Esterno — Generatore DWG di Produzione
+Il tool più avanzato del sistema. Lavora a valle degli abachi Revit.
+
+**Input:** tabella Excel con gli abachi dei pannelli
+**Elaborazione:**
+- Ricostruisce la modulazione geometrica della stanza da zero
+- Applica la logica di posizionamento fori su ogni pannello (basata su altezza e vincoli tecnici specifici)
+- Calcola i tagli dei profili strutturali dietro ai pannelli, incorporando tutte le regole produttive
+
+**Output:** file DWG di ogni singolo pannello con forature corrette + lista tagli profili — pronti per andare direttamente in produzione
+
+Quello che normalmente richiederebbe un disegnatore tecnico per ogni pannello, su ogni commessa, viene eseguito automaticamente. Sviluppato interamente da Simone, incorporando la conoscenza tecnica del prodotto e delle logiche di produzione.
+
+---
+
 ## Asset da caricare
 <!-- Screenshot tool Excel, demo plugin Revit, video sistema IoT -->
