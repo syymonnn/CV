@@ -20,10 +20,14 @@ Cinematic ma tecnicamente preciso. Non solo bello — impressionante.
 
 ## Stack
 
-- Next.js
-- Framer Motion + GSAP (scroll-driven animations)
-- Tailwind CSS
+- **Next.js** — framework principale (SSR, metadata, CMS-ready)
+- **GSAP + ScrollTrigger** — animazioni e scroll storytelling (gold standard 2026, tutti i plugin ora gratuiti)
+- **Lenis** — smooth scroll nativo, zero dipendenze, integrato con GSAP
+- **React Three Fiber + Drei** — WebGL / 3D / scene immersive
+- **Tailwind CSS** — stile
 - Deploy: dominio personale (da acquistare)
+
+Stack usato da Immersive Garden (Awwwards winner) e dai migliori creative studios al mondo.
 
 ## Struttura narrativa della pagina
 
